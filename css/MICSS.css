@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/10/2017, 11:40:11 AM
+    Author     : usuario
+*/
+
+.error{
+    color: red;
+    font-size: 10px;
+}
+
+#ayudas{
+    display: none;
+}
+
+.mimouse{
+    cursor: pointer;
+    font-size: 12px;
+    color: #000;
+    background: #fff;
+    transition: background, 2s; 
+}
+
+.mimouse:hover{
+    background: #24a528;
+    font-weight: bold;
+}
